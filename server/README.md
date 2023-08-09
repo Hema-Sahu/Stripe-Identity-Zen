@@ -1,4 +1,4 @@
-# Name of sample
+# Stripe Identity sample
 
 An [Express server](http://expressjs.com) implementation
 
